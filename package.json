@@ -1,0 +1,21 @@
+{
+  "name": "billpuppy-db",
+  "version": "0.0.1",
+  "description": "Core database for Billpuppy services",
+  "main": "app.ts",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osdiab/billpuppy-db.git"
+  },
+  "author": "Omar Diab",
+  "bugs": {
+    "url": "https://github.com/osdiab/billpuppy-db/issues"
+  },
+  "homepage": "https://github.com/osdiab/billpuppy-db#readme",
+  "dependencies": {
+    "thrift": "^0.9.3"
+  }
+}
