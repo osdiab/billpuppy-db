@@ -31,3 +31,4 @@ dist
 # Thrift
 
 gen-*/
+tmp/
