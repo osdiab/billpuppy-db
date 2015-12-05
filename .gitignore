@@ -27,3 +27,7 @@ build/Release
 node_modules
 typings
 dist
+
+# Thrift
+
+gen-*/
