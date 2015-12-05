@@ -1,4 +1,4 @@
-import thrift = require("thrift")
+import thrift = require("thrift");
 import billpuppyDb = require("BillpuppyDb");
 
 
